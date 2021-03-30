@@ -24,10 +24,9 @@ li{
     display: -ms-flexbox;
 }
 body{float: inline-end;
-    background-image: url(./pet-website/images/download.jpeg);
-    background-size: 10%;
     padding: 10%;
     margin-top: 1%;
     margin-left: 1%;
+    background-color: rgb(131, 147, 168);
 
 }
