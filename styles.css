@@ -25,8 +25,20 @@ li{
 }
 body{float: inline-end;
     padding: 10%;
-    margin-top: 1%;
-    margin-left: 1%;
-    background-color: rgb(131, 147, 168);
+    margin-top: 0%;
+    margin-left: 0%;
+    background-image: url(../pet-website/images/download\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: unset;
 
+    
+
+}
+img{
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 22px;
+    max-width: 100%;
 }
