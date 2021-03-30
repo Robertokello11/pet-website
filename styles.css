@@ -1,0 +1,33 @@
+h1{
+    color: aquamarine;
+    font-family: sans-serif;
+    font-style: oblique;
+}
+h2{
+    font-size: large;
+    font-style:oblique;
+    color: lightcoral;
+}
+h3{
+    font-style: oblique;
+    font-size: large;
+    color: lightcoral;
+}
+p{
+    font-size: small;
+    display: -ms-flexbox;
+    font-style: italic;
+}
+li{
+    font-size: small;
+    font-style: italic;
+    display: -ms-flexbox;
+}
+body{float: inline-end;
+    background-image: url(./pet-website/images/download.jpeg);
+    background-size: 10%;
+    padding: 10%;
+    margin-top: 1%;
+    margin-left: 1%;
+
+}
