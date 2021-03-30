@@ -17,30 +17,24 @@ p{
     font-size: small;
     display: -ms-flexbox;
     font-style: italic;
+    color: whitesmoke;
 }
 li{
     font-size: small;
     font-style: italic;
-    display: -ms-flexbox;
+    display: -ms-flexble;
+    color: whitesmoke;
+
 }
 body{
+
     background-image: url(../pet-website/images/download\ \(1\).jpeg);
     background-repeat: no-repeat;
-    background-position: inherit;
     background-attachment: fixed;
     background-size:70% 100%;
     display: left;
     height: 100%;
     width: 100%;
-    padding-left: 10p
-}
-img{
-    border-radius: 5px;
-    display: block;
-    margin-bottom: 22px;
-    max-width: 100%;
-}
-*{
-    background-color:rgb(239, 234, 243);
-
+    padding-left: 10px;
+    color: whitesmoke;
 }
