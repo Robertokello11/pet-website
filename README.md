@@ -1,24 +1,31 @@
-#ROBERT OKELLO
-# {Pet Website}
-#### {Tells how my pet eats and more about it}, {30/03/2021}
-#### By **{List of contributors}**
+ROBERT OKELLO
+# Pet Website
+#### Description{30/03/2021}
+Tells how my pet eats and more about it.
+# contributors
+I was the only contributor for this work
 ## Description
-{This site is about my pet in here you see how its feeed how well I take care of it.the main use is to give knowledge on how you keep and feed your pet.}
-## Setup/Installation Requirements
-* Clone the repo {git clone }
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Live link
+This site is about my pet in here you see how its feeed how well I take care of it.the main use is to give knowledge on how you keep and feed your pet.
+## Installation Requirements
+You need to have git installed
+You can install it with the following command in your terminal `$ sudo apt install git.all
+## Setup
+* To access this project on your local,you can clone it using these steps;
+1. open your terminal
+2. use this command to Clone the repo {git clone https://github.com/Robertokello11/pet-website.git}
+3. This will clone the repository into your local folder
+.."Enjoy"..
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+There are no bugs
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+HTML
+CSS
+Git
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+For any question or support kindly email at- robertokello443@gmail.com
+### Live site
+view [live](https://robertokello11.github.io/pet-website/.)
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-This is under the [MIT](LICENSE) license
-Copyright (c) {year} **{List of contributors or company name}**
+This project is under the [MIT](LICENSE) license
+Copyright (c) {year} 
+
