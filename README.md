@@ -27,5 +27,5 @@ For any question or support kindly email at- robertokello443@gmail.com
 view [live](https://robertokello11.github.io/pet-website/.)
 ### License
 This project is under the [MIT](LICENSE) license
-Copyright (c) {year} 
+Copyright (c) {2021} 
 
